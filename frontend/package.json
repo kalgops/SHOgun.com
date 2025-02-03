@@ -21,7 +21,7 @@
     "@types/minimatch": "^5.1.2",
     "@types/q": "^1.5.8",
     "@vue/cli-plugin-babel": "~5.0.0",
-    "@vue/cli-plugin-eslint": "^3.8.0",
+    "@vue/cli-plugin-eslint": "^5.0.8",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "^5.0.8",
